@@ -1,2 +1,2 @@
 Commit dodaj
-Commit odejmijcommit odejmowanie
+Commit odejmij
