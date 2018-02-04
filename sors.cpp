@@ -34,4 +34,8 @@ int main(){
 		}
 	} while (_getch() != 32);
 	
+	
+	cout << "Kruczi a co to za outdated branch bez petli i w ogole..." << endl
+		 << "Trza tu zrobic rebase mi sie wydaje! :D" << endl;
+	
 }
