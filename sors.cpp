@@ -4,6 +4,8 @@
 #include "header.h"
 #include "dzielenie.h"
 #include <conio.h>
+#include "potegi.h"
+
 
 using namespace std;
 
@@ -25,6 +27,9 @@ int main(){
 			break;
 		case 47:
 			cout << dzielenie(a, b);
+			break;
+		case 94:
+			cout << potegi(a, b);
 			break;
 		}
 	} while (_getch() != 32);

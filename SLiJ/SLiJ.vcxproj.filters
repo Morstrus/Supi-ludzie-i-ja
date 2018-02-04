@@ -30,6 +30,9 @@
     <ClCompile Include="..\mnozenie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\potegi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\dodawanie.h">
@@ -42,6 +45,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\odejmowanie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\potegi.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

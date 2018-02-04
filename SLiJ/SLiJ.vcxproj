@@ -119,6 +119,7 @@
     <ClCompile Include="..\dzielenie.cpp" />
     <ClCompile Include="..\mnozenie.cpp" />
     <ClCompile Include="..\odejmowanie.cpp" />
+    <ClCompile Include="..\potegi.cpp" />
     <ClCompile Include="..\sors.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -126,6 +127,7 @@
     <ClInclude Include="..\dzielenie.h" />
     <ClInclude Include="..\header.h" />
     <ClInclude Include="..\odejmowanie.h" />
+    <ClInclude Include="..\potegi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

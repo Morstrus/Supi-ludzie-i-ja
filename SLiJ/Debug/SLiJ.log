@@ -1,7 +1,4 @@
 ﻿  sors.cpp
-  odejmowanie.cpp
-  mnozenie.cpp
-  dzielenie.cpp
+  potegi.cpp
   Generating Code...
-  LINK : C:\Users\Janek\Desktop\kms\SLiJ\Supi-ludzie-i-ja\SLiJ\Debug\SLiJ.exe not found or not built by the last incremental link; performing full link
   SLiJ.vcxproj -> C:\Users\Janek\Desktop\kms\SLiJ\Supi-ludzie-i-ja\SLiJ\Debug\SLiJ.exe
