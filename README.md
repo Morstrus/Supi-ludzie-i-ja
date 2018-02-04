@@ -1,6 +1,6 @@
 Supi-ludzie-i-ja
-Na przekór pustce, smutku i niepowodzeniom!
+Na przekÃ³r pustce, smutku i niepowodzeniom!
 
-dudaje rzeczy do readme bez r¹k
+dudaje rzeczy do readme bez rÄ…k
 
 Idealna sentencja <3
