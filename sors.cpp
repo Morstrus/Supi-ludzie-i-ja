@@ -3,33 +3,30 @@
 #include "odejmowanie.h"
 #include "header.h"
 #include "dzielenie.h"
-
+#include <conio.h>
 
 using namespace std;
 
 int main(){
-	int a, b, z;
-	cin >> a >> b;
-	cout << "Co chcesz zrobic?" << endl;
-	cout << "1. Dodac" << endl;
-	cout << "2. Odejmowanie" << endl;
-	cout << "3. Mnozenie"<< endl;
-	cout << "4. Dzielenie" << endl;
-	cin >> z;
-	switch(z)
-	{
-		case 1:
-		cout << dodawanie(a, b);
-		break;
-		case 2:
-		cout << odejmowanie(a, b);
-		break;
-		case 3:
-		cout << mnozenie(a, b);
-		break;
-		case 4:
-		cout << dzielenie(a,b);
-		break;
-	}
+	int a, b;
+	char z;
+	cin >> a >> z >> b;
+	do {
+		switch (z)
+		{
+		case 43:
+			cout << dodawanie(a, b);
+			break;
+		case 35:
+			cout << odejmowanie(a, b);
+			break;
+		case 42:
+			cout << mnozenie(a, b);
+			break;
+		case 47:
+			cout << dzielenie(a, b);
+			break;
+		}
+	} while (_getch() != 32);
 	
 }

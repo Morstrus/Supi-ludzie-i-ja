@@ -1,5 +1,5 @@
 
 
-float mnozenie(int a, b){
-	return a - b;	
+int mnozenie(int a,int b){
+	return a * b;	
 }
