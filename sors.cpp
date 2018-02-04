@@ -1,6 +1,7 @@
 #include <iostream>
 #include "dodawanie.h"
 #include "odejmowanie.h"
+#include "header.h"
 #include "dzielenie.h"
 
 
