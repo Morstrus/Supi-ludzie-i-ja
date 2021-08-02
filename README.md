@@ -5,3 +5,6 @@ dudaje rzeczy do readme bez rąk
 
 Idealna sentencja <3
 
+
+:O
+
